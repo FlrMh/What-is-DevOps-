@@ -9,10 +9,7 @@ In this Markdown file we will go through what **DevOps** is, its benefits  and i
      ![](Screen%20Shot%202017-07-11%20at%2016.18.35.png)
 
 
-
-
-
-
+   
 
 
 ### So, what are some DevOps benefits? ###
@@ -30,8 +27,8 @@ Now that we have established what DevOps is and its numerous benefits, let`s loo
        ![](1_F0Sqmqz3ubCzxYAAup2oLQ.png)
 
 
-### The man behind the curtain. ###
-So far we have explained _what_ **DevOps** _is_, and we discussed _it`s benefits_. We also looked at the _processes and tools_ behind DevOps. But how about the **people** that _do the job_? 
+### The person behind the curtain. ###
+So far we have explained _what_ **DevOps** _is_, and we discussed _its benefits_. We also looked at the _processes and tools_ behind DevOps. But how about the **people** that _do the job_? 
     ![](DevOps-Edureka.png)
 A DevOps engineer is an extremely skilled individual, both technically and interpersonally.  
 1. Firstly, it is an IT generalist who should have a wide-ranging knowledge of both development and operations, including coding, infrastructure management, system administration, and DevOps toolchains. 
@@ -39,5 +36,5 @@ A DevOps engineer is an extremely skilled individual, both technically and inter
 
 
 #### Overall... ####
-Instead of thinking of DevOps, which often uses IT/DevOps management software, as a singular solution, it should be viewed as an **overarching philosophy** — generally speaking, the DevOps concept has been developed to _bridge the gap_ between two traditionally siloed teams, development and operations. More specifically, through agile processes, the _two teams work in concert_ to optimize productivity and reliability, ultimately providing **better services to customers**.A DevOps strategy is more than just a single solution — it encompasses multiple software systems and departments to create a _unified, efficient approach to developing and operating applications and services_. 
+Instead of thinking of DevOps, which often uses IT/DevOps management software, as a singular solution, it should be viewed as an **overarching philosophy** — generally speaking, the DevOps concept has been developed to _bridge the gap_ between two traditionally siloed teams, **development** and **operations**. More specifically, through agile processes, the _two teams work in concert_ to optimize productivity and reliability, ultimately providing **better services to customers**.A DevOps strategy is more than just a single solution — it encompasses multiple software systems and departments to create a _unified, efficient approach to developing and operating applications and services_. 
     ![](DevOps-definition.png)
